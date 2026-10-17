@@ -1,7 +1,7 @@
 -- Database: sql_project_p1
 
 -- DROP DATABASE IF EXISTS sql_project_p1;
-
+--update
 CREATE DATABASE sql_project_p1
     WITH
     OWNER = postgres
